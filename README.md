@@ -1,9 +1,5 @@
 # todoapp
 
-Here’s a step-by-step guide you can include in a `README.md` file to instruct participants on how to **clone** the provided repository, create their own **repository**, and **push** the cloned `src` folder to their own repository.
-
----
-
 ## Step-by-Step Guide to Clone and Push a TodoApp Project
 
 ### Step 1: Clone the Existing Repository
@@ -68,5 +64,3 @@ Here’s a step-by-step guide you can include in a `README.md` file to instruct 
 
 1. Go back to your GitHub account and navigate to your newly created repository.
 2. You should see the `src` folder uploaded successfully.
-
----
