@@ -12,7 +12,7 @@ Here’s a step-by-step guide you can include in a `README.md` file to instruct 
 2. Clone the provided repository containing the `src` folder using the following command:
 
    ```bash
-   git clone https://github.com/your-organization/your-repo.git
+   git clone https://github.com/swayaan-training/todoapp.git
    ```
 
    This will create a local copy of the repository in your current directory.
