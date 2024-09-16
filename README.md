@@ -20,7 +20,7 @@ Here’s a step-by-step guide you can include in a `README.md` file to instruct 
 3. Navigate to the cloned repository:
 
    ```bash
-   cd your-repo
+   cd todoapp
    ```
 
 ### Step 2: Create Your Own GitHub Repository
